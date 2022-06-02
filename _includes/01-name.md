@@ -1,1 +1,1 @@
-Replace this with your name, and include a header.
+I have never found making things to be a waste of time.
