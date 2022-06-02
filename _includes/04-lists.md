@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+## Sparky's Favorite Things
+- Sunshine
+- Mice
+- Food
+- Cuddles
